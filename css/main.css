@@ -11,3 +11,10 @@ h3 {
 h2 {
 	color : green;
 }
+
+img {
+	display: block;
+	width: 20% ;
+	margin-right: auto ;
+	margin-left: auto ;
+}
